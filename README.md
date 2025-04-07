@@ -1,0 +1,1 @@
+  This project is about food intake monitoring for those who was diseases  , we can give input as diseases more than one can be given and also can give foods that we are goimg to take it will say the food that we can take and we cannot according to our diseases 
